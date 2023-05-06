@@ -57,6 +57,6 @@ unread message pill edits by snow
 .chatContent-3KubbW {
     background-color: transparent !important;
 }
-.panels-3wFtMD {
+.panels-3wFtMD > * {
   background-color: transparent !important;
 }
