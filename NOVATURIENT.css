@@ -68,3 +68,20 @@ unread message pill edits by snow
   font-family: "Discord"
 }
 
+div[class*="typeWindows-"]::after {
+  content: "";
+  text-shadow: 0 0 20px rgb(255, 0, 0); 
+  color: rgb(255, 94, 94);
+  font-family: Discord;
+  opacity: 0;
+  transform: translateX(70%) rotateX(45deg);
+}
+div[class*="typeWindows-"]::before {
+  content: "";
+  font-family: Discord;
+  text-shadow: 0 0 20px rgb(255, 0, 0); 
+  color: rgb(255, 94, 94);
+  opacity: 0;
+  margin-right: 20px;
+  transform: translateX(70%) rotateX(45deg);
+}
