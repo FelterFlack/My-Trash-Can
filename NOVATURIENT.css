@@ -53,3 +53,7 @@ unread message pill edits by snow
 :root { /*for autumn foliole*/
  --background-image: url(https://cdn.discordapp.com/attachments/1013418749254172682/1104201641617543188/photo-1636953056323-9c09fdd74fa6.jpg);
 }
+
+.root-2s1-ri>* {
+    background-color: transparent !important;
+}
