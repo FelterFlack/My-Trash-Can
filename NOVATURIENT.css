@@ -60,3 +60,11 @@ unread message pill edits by snow
 .panel-2ZFCRb,.container-YkUktl,.container-1zzFcN,#vc-spotify-player {
   background-color: transparent !important;
 }
+
+.wordmark-2u86JB:after {
+  content:'Felterflack';
+  text-shadow: 0 0 20px rgb(255, 0, 0);
+  color: rgb(255, 94, 94);
+  font-family: "Discord"
+}
+
