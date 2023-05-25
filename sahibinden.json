@@ -1,0 +1,837 @@
+[
+    {
+        
+        
+        "brand": {
+            "@type": "brand",
+            "name": "Audi"
+        },
+        "color": "Gri",
+        "description": "Audi / A4 / A4 Sedan / 2.0 TFSI Quattro / hatasız kıvamda ilk günki temizliğinde a4 sahibinden.comda - 1101490764",
+        "driveWheelConfiguration": "4WD (Sürekli)",
+        "fuelType": "Benzin & LPG",
+        "image": {
+            "@type": "ImageObject",
+            "contentUrl": "https://i0.shbdn.com/photos/49/07/64/x5_1101490764ug9.jpg"
+        },
+        
+        "mileageFromOdometer": [
+        {
+            "@type": "QuantitativeValue",
+            "unitCode": "KMH",
+            "value": "201000"
+        }
+        ],
+        "name": "hatasız kıvamda ilk günki temizliğinde a4",
+        "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "583000",
+            "priceCurrency": "TL",
+            
+            "seller": {
+                "@type": "AutoDealer",
+                "name": "Murat Kısakaya",
+                "telephone": "+90-532-7378066"
+            },
+            "url": "/ilan/vasita-otomobil-audi-hatasiz-kivamda-ilk-gunki-temizliginde-a4-1101490764/detay"
+        },
+        "sku": "1101490764",
+        "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "name": "2.0 TFSI Quattro"
+        },
+        "vehicleTransmission": "Otomatik"
+    },
+    {
+        
+        
+        "brand": {
+            "@type": "brand",
+            "name": "Audi"
+        },
+        "color": "Siyah",
+        "description": "Audi / A4 / A4 Sedan / 2.0 TFSI Quattro / *** ESA MOTORS ***A4 Sedan 2.0 TFSI Quattro STronic SUNROOF BEJ sahibinden.comda - 1034966363",
+        "driveWheelConfiguration": "4WD (Sürekli)",
+        "fuelType": "Benzin",
+        "image": {
+            "@type": "ImageObject",
+            "contentUrl": "https://i0.shbdn.com/photos/96/63/63/x5_1034966363ok6.jpg"
+        },
+        
+        "mileageFromOdometer": [
+        {
+            "@type": "QuantitativeValue",
+            "unitCode": "KMH",
+            "value": "193000"
+        }
+        ],
+        "name": "*** ESA MOTORS ***A4 Sedan 2.0 TFSI Quattro STronic SUNROOF BEJ",
+        "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "1350000",
+            "priceCurrency": "TL",
+            
+            "seller": {
+                "@type": "AutoDealer",
+                "name": "Esa Motors",
+                "telephone": "+90-532-2484965"
+            },
+            "url": "/ilan/vasita-otomobil-audi-esa-motors-a4-sedan-2.0-tfsi-quattro-stronic-sunroof-bej-1034966363/detay"
+        },
+        "sku": "1034966363",
+        "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "name": "2.0 TFSI Quattro"
+        },
+        "vehicleTransmission": "Otomatik"
+    },
+    {
+        
+        
+        "brand": {
+            "@type": "brand",
+            "name": "Audi"
+        },
+        "color": "Siyah",
+        "description": "Audi / A4 / A4 Sedan / 2.0 TFSI Quattro / 2010 AUDİ A4 2.0TFSİ QUATTRO 4x4 sahibinden.comda - 1094779881",
+        "driveWheelConfiguration": "4WD (Sürekli)",
+        "fuelType": "Benzin & LPG",
+        "image": {
+            "@type": "ImageObject",
+            "contentUrl": "https://i0.shbdn.com/photos/77/98/81/x5_1094779881tp9.jpg"
+        },
+        
+        "mileageFromOdometer": [
+        {
+            "@type": "QuantitativeValue",
+            "unitCode": "KMH",
+            "value": "288000"
+        }
+        ],
+        "name": "2010 AUDİ A4 2.0TFSİ QUATTRO 4x4",
+        "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "660000",
+            "priceCurrency": "TL",
+            
+            "seller": {
+                "@type": "AutoDealer",
+                "name": "Fatih ARI",
+                "telephone": "+90-544-9632653"
+            },
+            "url": "/ilan/vasita-otomobil-audi-2010-audi-a4-2.0tfsi-quattro-4x4-1094779881/detay"
+        },
+        "sku": "1094779881",
+        "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "name": "2.0 TFSI Quattro"
+        },
+        "vehicleTransmission": "Otomatik"
+    },
+    {
+        
+        
+        "brand": {
+            "@type": "brand",
+            "name": "Audi"
+        },
+        "color": "Siyah",
+        "description": "Audi / A4 / A4 Sedan / 2.0 TFSI Quattro / ERKAN GALERİ 2006 model 2.0. 200 hp. 4x4. Otomatik vites fulll sahibinden.comda - 1074672672",
+        "driveWheelConfiguration": "4WD (Sürekli)",
+        "fuelType": "Benzin",
+        "image": {
+            "@type": "ImageObject",
+            "contentUrl": "https://i0.shbdn.com/photos/67/26/72/x5_10746726723z2.jpg"
+        },
+        
+        "mileageFromOdometer": [
+        {
+            "@type": "QuantitativeValue",
+            "unitCode": "KMH",
+            "value": "400000"
+        }
+        ],
+        "name": "ERKAN GALERİ 2006 model 2.0. 200 hp. 4x4. Otomatik vites fulll",
+        "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "500000",
+            "priceCurrency": "TL",
+            
+            "seller": {
+                "@type": "AutoDealer",
+                "name": "ERKAN Özkan",
+                "telephone": "+90-543-7345631"
+            },
+            "url": "/ilan/vasita-otomobil-audi-erkan-galeri-2006-model-2.0-200-hp-4x4-otomatik-vites-fulll-1074672672/detay"
+        },
+        "sku": "1074672672",
+        "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "name": "2.0 TFSI Quattro"
+        },
+        "vehicleTransmission": "Otomatik"
+    },
+    {
+        
+        
+        "brand": {
+            "@type": "brand",
+            "name": "Audi"
+        },
+        "color": "Gümüş Gri",
+        "description": "Audi / A4 / A4 Sedan / 2.0 TFSI Quattro / ---KUSURSUZ GÜZELLİK--- HATASIZ BOYASIZ TRDE TEK sahibinden.comda - 1101346089",
+        "driveWheelConfiguration": "4WD (Sürekli)",
+        "fuelType": "Benzin",
+        "image": {
+            "@type": "ImageObject",
+            "contentUrl": "https://i0.shbdn.com/photos/34/60/89/x5_1101346089j69.jpg"
+        },
+        
+        "mileageFromOdometer": [
+        {
+            "@type": "QuantitativeValue",
+            "unitCode": "KMH",
+            "value": "230000"
+        }
+        ],
+        "name": "---KUSURSUZ GÜZELLİK--- HATASIZ BOYASIZ TRDE TEK",
+        "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "659850",
+            "priceCurrency": "TL",
+            
+            "seller": {
+                "@type": "AutoDealer",
+                "name": "Ertugan Auto",
+                "telephone": "+90-535-2723260"
+            },
+            "url": "/ilan/vasita-otomobil-audi-kusursuz-guzellik-hatasiz-boyasiz-trde-tek-1101346089/detay"
+        },
+        "sku": "1101346089",
+        "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "name": "2.0 TFSI Quattro"
+        },
+        "vehicleTransmission": "Otomatik"
+    },
+    {
+        
+        
+        "brand": {
+            "@type": "brand",
+            "name": "Audi"
+        },
+        "color": "Siyah",
+        "description": "Audi / A4 / A4 Sedan / 2.0 TFSI Quattro / TOPÇU GALERİ // 2006 AUDİ A4 2.0 QUATTRO -- HASAR KAYITSIZ sahibinden.comda - 1101236593",
+        "driveWheelConfiguration": "4WD (Sürekli)",
+        "fuelType": "Benzin",
+        "image": {
+            "@type": "ImageObject",
+            "contentUrl": "https://i0.shbdn.com/photos/23/65/93/x5_1101236593yhr.jpg"
+        },
+        
+        "mileageFromOdometer": [
+        {
+            "@type": "QuantitativeValue",
+            "unitCode": "KMH",
+            "value": "250000"
+        }
+        ],
+        "name": "TOPÇU GALERİ // 2006 AUDİ A4 2.0 QUATTRO -- HASAR KAYITSIZ",
+        "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "556000",
+            "priceCurrency": "TL",
+            
+            "seller": {
+                "@type": "AutoDealer",
+                "name": "İrfan Topçu",
+                "telephone": "+90-533-3848478"
+            },
+            "url": "/ilan/vasita-otomobil-audi-topcu-galeri-2006-audi-a4-2.0-quattro-hasar-kayitsiz-1101236593/detay"
+        },
+        "sku": "1101236593",
+        "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "name": "2.0 TFSI Quattro"
+        },
+        "vehicleTransmission": "Otomatik"
+    },
+    {
+        
+        
+        "brand": {
+            "@type": "brand",
+            "name": "Audi"
+        },
+        "color": "Bej",
+        "description": "Audi / A4 / A4 Sedan / 2.0 TFSI Quattro / SAHİBİNDEN TEMİZ SIFIR MASRAFSIZ QUATTRO sahibinden.comda - 1101556435",
+        "driveWheelConfiguration": "4WD (Sürekli)",
+        "fuelType": "Benzin",
+        "image": {
+            "@type": "ImageObject",
+            "contentUrl": "https://i0.shbdn.com/photos/55/64/35/x5_11015564359ho.jpg"
+        },
+        
+        "mileageFromOdometer": [
+        {
+            "@type": "QuantitativeValue",
+            "unitCode": "KMH",
+            "value": "220000"
+        }
+        ],
+        "name": "SAHİBİNDEN TEMİZ SIFIR MASRAFSIZ QUATTRO",
+        "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "549500",
+            "priceCurrency": "TL",
+            
+            "url": "/ilan/vasita-otomobil-audi-sahibinden-temiz-sifir-masrafsiz-quattro-1101556435/detay"
+        },
+        "sku": "1101556435",
+        "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "name": "2.0 TFSI Quattro"
+        },
+        "vehicleTransmission": "Otomatik"
+    },
+    {
+        
+        
+        "brand": {
+            "@type": "brand",
+            "name": "Audi"
+        },
+        "color": "Siyah",
+        "description": "Audi / A4 / A4 Sedan / 2.0 TFSI Quattro / OĞUZHAN OTOMOTİV'DEN 2011 MODEL AUDİ A4 2.0 TFSİ QUATTRO LPG'Lİ sahibinden.comda - 1080408093",
+        "driveWheelConfiguration": "4WD (Sürekli)",
+        "fuelType": "Benzin & LPG",
+        "image": {
+            "@type": "ImageObject",
+            "contentUrl": "https://i0.shbdn.com/photos/40/80/93/x5_1080408093pa7.jpg"
+        },
+        
+        "mileageFromOdometer": [
+        {
+            "@type": "QuantitativeValue",
+            "unitCode": "KMH",
+            "value": "265000"
+        }
+        ],
+        "name": "OĞUZHAN OTOMOTİV'DEN 2011 MODEL AUDİ A4 2.0 TFSİ QUATTRO LPG'Lİ",
+        "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "755000",
+            "priceCurrency": "TL",
+            
+            "seller": {
+                "@type": "AutoDealer",
+                "name": "OĞUZHAN OTOMOTİV",
+                "telephone": "+90-532-7385288"
+            },
+            "url": "/ilan/vasita-otomobil-audi-oguzhan-otomotiv-den-2011-model-audi-a4-2.0-tfsi-quattro-lpg-li-1080408093/detay"
+        },
+        "sku": "1080408093",
+        "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "name": "2.0 TFSI Quattro"
+        },
+        "vehicleTransmission": "Otomatik"
+    },
+    {
+        
+        
+        "brand": {
+            "@type": "brand",
+            "name": "Audi"
+        },
+        "color": "Gri",
+        "description": "Audi / A4 / A4 Sedan / 2.0 TFSI Quattro / EMSALSİZzZ FULL+ FULL sahibinden.comda - 1100792311",
+        "driveWheelConfiguration": "4WD (Sürekli)",
+        "fuelType": "Benzin & LPG",
+        "image": {
+            "@type": "ImageObject",
+            "contentUrl": "https://i0.shbdn.com/photos/79/23/11/x5_110079231185v.jpg"
+        },
+        
+        "mileageFromOdometer": [
+        {
+            "@type": "QuantitativeValue",
+            "unitCode": "KMH",
+            "value": "305000"
+        }
+        ],
+        "name": "EMSALSİZzZ FULL+ FULL",
+        "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "580000",
+            "priceCurrency": "TL",
+            
+            "url": "/ilan/vasita-otomobil-audi-emsalsizzz-full-plus-full-1100792311/detay"
+        },
+        "sku": "1100792311",
+        "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "name": "2.0 TFSI Quattro"
+        },
+        "vehicleTransmission": "Otomatik"
+    },
+    {
+        
+        
+        "brand": {
+            "@type": "brand",
+            "name": "Audi"
+        },
+        "color": "Siyah",
+        "description": "Audi / A4 / A4 Sedan / 2.0 TFSI Quattro / ACİL QUATTRO S-LINE BAKIMLI İÇİ BEJ TERTEMİZ AİLE ARACI sahibinden.comda - 1100936696",
+        "driveWheelConfiguration": "4WD (Sürekli)",
+        "fuelType": "Benzin",
+        "image": {
+            "@type": "ImageObject",
+            "contentUrl": "https://i0.shbdn.com/photos/93/66/96/x5_1100936696ruo.jpg"
+        },
+        
+        "mileageFromOdometer": [
+        {
+            "@type": "QuantitativeValue",
+            "unitCode": "KMH",
+            "value": "265000"
+        }
+        ],
+        "name": "ACİL QUATTRO S-LINE BAKIMLI İÇİ BEJ TERTEMİZ AİLE ARACI",
+        "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "529000",
+            "priceCurrency": "TL",
+            
+            "url": "/ilan/vasita-otomobil-audi-acil-quattro-s-line-bakimli-ici-bej-tertemiz-aile-araci-1100936696/detay"
+        },
+        "sku": "1100936696",
+        "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "name": "2.0 TFSI Quattro"
+        },
+        "vehicleTransmission": "Otomatik"
+    },
+    {
+        
+        
+        "brand": {
+            "@type": "brand",
+            "name": "Audi"
+        },
+        "color": "Siyah",
+        "description": "Audi / A4 / A4 Sedan / 2.0 TFSI Quattro / TEK FİYAT UZAY MOTOR'S DAN EMSALSİZ TEMİZLİKTE AUDİ A4 QUATTRO sahibinden.comda - 1086666227",
+        "driveWheelConfiguration": "4WD (Sürekli)",
+        "fuelType": "Benzin & LPG",
+        "image": {
+            "@type": "ImageObject",
+            "contentUrl": "https://i0.shbdn.com/photos/66/62/27/x5_1086666227klw.jpg"
+        },
+        
+        "mileageFromOdometer": [
+        {
+            "@type": "QuantitativeValue",
+            "unitCode": "KMH",
+            "value": "310000"
+        }
+        ],
+        "name": "TEK FİYAT UZAY MOTOR'S DAN EMSALSİZ TEMİZLİKTE AUDİ A4 QUATTRO",
+        "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "495000",
+            "priceCurrency": "TL",
+            
+            "seller": {
+                "@type": "AutoDealer",
+                "name": "Uzay Motors",
+                "telephone": "+90-533-5952699"
+            },
+            "url": "/ilan/vasita-otomobil-audi-tek-fiyat-uzay-motor-s-dan-emsalsiz-temizlikte-audi-a4-quattro-1086666227/detay"
+        },
+        "sku": "1086666227",
+        "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "name": "2.0 TFSI Quattro"
+        },
+        "vehicleTransmission": "Otomatik"
+    },
+    {
+        
+        
+        "brand": {
+            "@type": "brand",
+            "name": "Audi"
+        },
+        "color": "Siyah",
+        "description": "Audi / A4 / A4 Sedan / 2.0 TFSI Quattro / MOTOSİKLET VE ARAÇ TAKAS LI AUDİ A4 QUATTRO DIŞ S LİNE sahibinden.comda - 1093833480",
+        "driveWheelConfiguration": "4WD (Sürekli)",
+        "fuelType": "Benzin",
+        "image": {
+            "@type": "ImageObject",
+            "contentUrl": "https://i0.shbdn.com/photos/83/34/80/x5_1093833480rr6.jpg"
+        },
+        
+        "mileageFromOdometer": [
+        {
+            "@type": "QuantitativeValue",
+            "unitCode": "KMH",
+            "value": "312600"
+        }
+        ],
+        "name": "MOTOSİKLET VE ARAÇ TAKAS LI AUDİ A4 QUATTRO DIŞ S LİNE",
+        "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "560000",
+            "priceCurrency": "TL",
+            
+            "seller": {
+                "@type": "AutoDealer",
+                "name": "Emre Acar",
+                "telephone": "+90-541-3763782"
+            },
+            "url": "/ilan/vasita-otomobil-audi-motosiklet-ve-arac-takas-li-audi-a4-quattro-dis-s-line-1093833480/detay"
+        },
+        "sku": "1093833480",
+        "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "name": "2.0 TFSI Quattro"
+        },
+        "vehicleTransmission": "Otomatik"
+    },
+    {
+        
+        
+        "brand": {
+            "@type": "brand",
+            "name": "Audi"
+        },
+        "color": "Kırmızı",
+        "description": "Audi / A4 / A4 Sedan / 2.0 TFSI Quattro / Performans arabası sahibinden.comda - 1094242070",
+        "driveWheelConfiguration": "4WD (Sürekli)",
+        "fuelType": "Benzin",
+        "image": {
+            "@type": "ImageObject",
+            "contentUrl": "https://i0.shbdn.com/photos/24/20/70/x5_10942420701gc.jpg"
+        },
+        
+        "mileageFromOdometer": [
+        {
+            "@type": "QuantitativeValue",
+            "unitCode": "KMH",
+            "value": "180000"
+        }
+        ],
+        "name": "Performans arabası",
+        "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "799000",
+            "priceCurrency": "TL",
+            
+            "url": "/ilan/vasita-otomobil-audi-performans-arabasi-1094242070/detay"
+        },
+        "sku": "1094242070",
+        "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "name": "2.0 TFSI Quattro"
+        },
+        "vehicleTransmission": "Manuel"
+    },
+    {
+        
+        
+        "brand": {
+            "@type": "brand",
+            "name": "Audi"
+        },
+        "color": "Füme",
+        "description": "Audi / A4 / A4 Sedan / 2.0 TFSI Quattro / 177 km DEĞİŞENSİZ QUATTRO sahibinden.comda - 1100612243",
+        "driveWheelConfiguration": "4WD (Sürekli)",
+        "fuelType": "Benzin",
+        "image": {
+            "@type": "ImageObject",
+            "contentUrl": "https://i0.shbdn.com/photos/61/22/43/x5_110061224302p.jpg"
+        },
+        
+        "mileageFromOdometer": [
+        {
+            "@type": "QuantitativeValue",
+            "unitCode": "KMH",
+            "value": "177000"
+        }
+        ],
+        "name": "177 km DEĞİŞENSİZ QUATTRO",
+        "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "605000",
+            "priceCurrency": "TL",
+            
+            "url": "/ilan/vasita-otomobil-audi-177-km-degisensiz-quattro-1100612243/detay"
+        },
+        "sku": "1100612243",
+        "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "name": "2.0 TFSI Quattro"
+        },
+        "vehicleTransmission": "Otomatik"
+    },
+    {
+        
+        
+        "brand": {
+            "@type": "brand",
+            "name": "Audi"
+        },
+        "color": "Gümüş Gri",
+        "description": "Audi / A4 / A4 Sedan / 2.0 TFSI Quattro / 2005 model değişensiz 2.0TFSI quattro sahibinden.comda - 1095451083",
+        "driveWheelConfiguration": "4WD (Sürekli)",
+        "fuelType": "Benzin & LPG",
+        "image": {
+            "@type": "ImageObject",
+            "contentUrl": "https://i0.shbdn.com/photos/45/10/83/x5_1095451083djo.jpg"
+        },
+        
+        "mileageFromOdometer": [
+        {
+            "@type": "QuantitativeValue",
+            "unitCode": "KMH",
+            "value": "291000"
+        }
+        ],
+        "name": "2005 model değişensiz 2.0TFSI quattro",
+        "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "500000",
+            "priceCurrency": "TL",
+            
+            "url": "/ilan/vasita-otomobil-audi-2005-model-degisensiz-2.0tfsi-quattro-1095451083/detay"
+        },
+        "sku": "1095451083",
+        "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "name": "2.0 TFSI Quattro"
+        },
+        "vehicleTransmission": "Otomatik"
+    },
+    {
+        
+        
+        "brand": {
+            "@type": "brand",
+            "name": "Audi"
+        },
+        "color": "Siyah",
+        "description": "Audi / A4 / A4 Sedan / 2.0 TFSI Quattro / AUDİ A4 TEMİZ SAHİBİNDEN sahibinden.comda - 1092967780",
+        "driveWheelConfiguration": "4WD (Sürekli)",
+        "fuelType": "Benzin",
+        "image": {
+            "@type": "ImageObject",
+            "contentUrl": "https://i0.shbdn.com/photos/96/77/80/x5_1092967780m8s.jpg"
+        },
+        
+        "mileageFromOdometer": [
+        {
+            "@type": "QuantitativeValue",
+            "unitCode": "KMH",
+            "value": "226000"
+        }
+        ],
+        "name": "AUDİ A4 TEMİZ SAHİBİNDEN",
+        "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "670000",
+            "priceCurrency": "TL",
+            
+            "url": "/ilan/vasita-otomobil-audi-audi-a4-temiz-sahibinden-1092967780/detay"
+        },
+        "sku": "1092967780",
+        "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "name": "2.0 TFSI Quattro"
+        },
+        "vehicleTransmission": "Otomatik"
+    },
+    {
+        
+        
+        "brand": {
+            "@type": "brand",
+            "name": "Audi"
+        },
+        "color": "Siyah",
+        "description": "Audi / A4 / A4 Sedan / 2.0 TFSI Quattro / SAHİBİNDEN BAKIMLI 2012 A4 QUATTRO 211 HP 98.000KM sahibinden.comda - 1099685213",
+        "driveWheelConfiguration": "4WD (Sürekli)",
+        "fuelType": "Benzin",
+        "image": {
+            "@type": "ImageObject",
+            "contentUrl": "https://i0.shbdn.com/photos/68/52/13/x5_1099685213nrm.jpg"
+        },
+        
+        "mileageFromOdometer": [
+        {
+            "@type": "QuantitativeValue",
+            "unitCode": "KMH",
+            "value": "98000"
+        }
+        ],
+        "name": "SAHİBİNDEN BAKIMLI 2012 A4 QUATTRO 211 HP 98.000KM",
+        "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "1250000",
+            "priceCurrency": "TL",
+            
+            "url": "/ilan/vasita-otomobil-audi-sahibinden-bakimli-2012-a4-quattro-211-hp-98.000km-1099685213/detay"
+        },
+        "sku": "1099685213",
+        "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "name": "2.0 TFSI Quattro"
+        },
+        "vehicleTransmission": "Otomatik"
+    },
+    {
+        
+        
+        "brand": {
+            "@type": "brand",
+            "name": "Audi"
+        },
+        "color": "Gri",
+        "description": "Audi / A4 / A4 Sedan / 2.0 TFSI Quattro / UZUN MOTORS DAN AUDİ A4 QUATTRO SUNROUF DERİ KOLTUK FULL sahibinden.comda - 1093524844",
+        "driveWheelConfiguration": "4WD (Sürekli)",
+        "fuelType": "Benzin & LPG",
+        "image": {
+            "@type": "ImageObject",
+            "contentUrl": "https://i0.shbdn.com/photos/52/48/44/x5_1093524844sz2.jpg"
+        },
+        
+        "mileageFromOdometer": [
+        {
+            "@type": "QuantitativeValue",
+            "unitCode": "KMH",
+            "value": "288000"
+        }
+        ],
+        "name": "UZUN MOTORS DAN AUDİ A4 QUATTRO SUNROUF DERİ KOLTUK FULL",
+        "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "545000",
+            "priceCurrency": "TL",
+            
+            "seller": {
+                "@type": "AutoDealer",
+                "name": "Uzun Motors",
+                "telephone": "+90-532-2412770"
+            },
+            "url": "/ilan/vasita-otomobil-audi-uzun-motors-dan-audi-a4-quattro-sunrouf-deri-koltuk-full-1093524844/detay"
+        },
+        "sku": "1093524844",
+        "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "name": "2.0 TFSI Quattro"
+        },
+        "vehicleTransmission": "Otomatik"
+    },
+    {
+        
+        
+        "brand": {
+            "@type": "brand",
+            "name": "Audi"
+        },
+        "color": "Beyaz",
+        "description": "Audi / A4 / A4 Sedan / 2.0 TFSI Quattro / 2010 S LİNE sahibinden.comda - 1085007275",
+        "driveWheelConfiguration": "4WD (Sürekli)",
+        "fuelType": "Benzin",
+        "image": {
+            "@type": "ImageObject",
+            "contentUrl": "https://i0.shbdn.com/photos/00/72/75/x5_1085007275zsz.jpg"
+        },
+        
+        "mileageFromOdometer": [
+        {
+            "@type": "QuantitativeValue",
+            "unitCode": "KMH",
+            "value": "215000"
+        }
+        ],
+        "name": "2010 S LİNE",
+        "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "720000",
+            "priceCurrency": "TL",
+            
+            "seller": {
+                "@type": "AutoDealer",
+                "name": "Sait KILIÇOĞLU",
+                "telephone": "+90-535-2269495"
+            },
+            "url": "/ilan/vasita-otomobil-audi-2010-s-line-1085007275/detay"
+        },
+        "sku": "1085007275",
+        "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "name": "2.0 TFSI Quattro"
+        },
+        "vehicleTransmission": "Otomatik"
+    },
+    {
+        
+        
+        "brand": {
+            "@type": "brand",
+            "name": "Audi"
+        },
+        "color": "Siyah",
+        "description": "Audi / A4 / A4 Sedan / 2.0 TFSI Quattro / 2. Sahibinden Audi A4 2.0 TFSI Quattro DTM Edition sahibinden.comda - 1100227908",
+        "driveWheelConfiguration": "4WD (Sürekli)",
+        "fuelType": "Benzin",
+        "image": {
+            "@type": "ImageObject",
+            "contentUrl": "https://i0.shbdn.com/photos/22/79/08/x5_1100227908a52.jpg"
+        },
+        
+        "mileageFromOdometer": [
+        {
+            "@type": "QuantitativeValue",
+            "unitCode": "KMH",
+            "value": "162000"
+        }
+        ],
+        "name": "2. Sahibinden Audi A4 2.0 TFSI Quattro DTM Edition",
+        "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "780000",
+            "priceCurrency": "TL",
+            
+            "url": "/ilan/vasita-otomobil-audi-2-sahibinden-audi-a4-2.0-tfsi-quattro-dtm-edition-1100227908/detay"
+        },
+        "sku": "1100227908",
+        "vehicleEngine": {
+            "@type": "EngineSpecification",
+            "name": "2.0 TFSI Quattro"
+        },
+        "vehicleTransmission": "Otomatik"
+    }
+]
